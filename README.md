@@ -62,7 +62,7 @@ The home price data used in this project comes from Zillow-style monthly ZIP-lev
 
 - **Source:** Kaggle  
 - **Dataset:** Zillow Housing Prices  
-- **Link:** https://www.kaggle.com/datasets/zhenyufan/zillow-housing-price
+- **Link:** [Data](https://www.kaggle.com/datasets/zhenyufan/zillow-housing-price)
 
 The data provides long-horizon monthly price histories suitable for trend and seasonal analysis.
 
