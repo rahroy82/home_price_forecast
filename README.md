@@ -1,4 +1,4 @@
-# ZIP-Level Home Price Forecasting & Risk Signal (CRISP-DM)
+# ZIP-Level Home Price Forecasting & Risk Signal
 
 ## 1. Business Understanding
 Mortgage lenders face collateral risk when home values decline. Even short-term drops can impact LTV ratios, pricing, and portfolio exposure.
