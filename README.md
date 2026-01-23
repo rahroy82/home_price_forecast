@@ -19,7 +19,7 @@ Forecast next-month ZIP-level home prices and generate a **material downside ris
 ---
 
 ## 2. Data Understanding
-**Source:** Zillow-style monthly ZIP-level home values - [Kaggle] (https://www.kaggle.com/datasets/zhenyufan/zillow-housing-price)  
+**Source:** Zillow-style monthly ZIP-level home values - [Kaggle](https://www.kaggle.com/datasets/zhenyufan/zillow-housing-price)  
 **Granularity:** ZIP × Month  
 **Target:** Next-month home value
 
